@@ -10,7 +10,7 @@ The course was taught by **Dr. Alireza Akhavan**. The original notebook and othe
 🔗 [https://github.com/Alireza-Akhavan/ML-notebooks](https://github.com/Alireza-Akhavan/ML-notebooks)
 
 ## Dependencies
-See `requirements.txt` for necessary packages.
+See `requirements.rtf` for necessary packages.
 
 ## Notes
 Some sections of this notebook are adapted from the instructor’s material. I have added my own explanations, experiments, or visualizations where noted.
