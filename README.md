@@ -1,4 +1,3 @@
-# Homework
 # Iris Flower Classification using K-Nearest Neighbors (KNN)
 
 This project is a simple implementation of the KNN algorithm for classifying the famous Iris dataset.
